@@ -7,4 +7,4 @@ The test folder contains sample XML data file and XSLT file for transforming the
 
 $> ./gradlew clean test --info
 
-It will generate output.csv file under src/test/java. 
+It will generate output.csv file under src/test/java.

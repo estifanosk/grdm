@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="grdm.XmlParserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-02-18T15:48:28" hostname="estifanosk.local" time="0.166">
+<testsuite name="grdm.XmlParserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-02-18T16:01:30" hostname="estifanosk.local" time="0.168">
   <properties/>
-  <testcase name="testParse" classname="grdm.XmlParserTest" time="0.166"/>
+  <testcase name="testParse" classname="grdm.XmlParserTest" time="0.168"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
