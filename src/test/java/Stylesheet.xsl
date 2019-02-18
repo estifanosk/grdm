@@ -4,7 +4,7 @@
     <xsl:template match="/">
         Id,Occured,Value
         <xsl:for-each select="//IntervalReading">
-            <xsl:value-of select="concat(entry/id,',',timePeriod/start,',',value,'&#xA;')"/>
+            <xsl:value-of select="concat(../../../id,',',timePeriod/start,',',value,'&#xA;')"/>
         </xsl:for-each>
     </xsl:template>
 </xsl:stylesheet>

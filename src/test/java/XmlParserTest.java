@@ -16,6 +16,7 @@ public class XmlParserTest {
         File outputCsv = new File ( "src/test/java/output.csv");
         XmlParser xmlParser = new XmlParser(stylesheet);
         xmlParser.parse(xmlSource,outputCsv);
-        //assertTrue("someLibraryMethod should return 'true'", classUnderTest.someLibraryMethod());
+
+        //TODO: open csv file and run asserations on the content
     }
 }
